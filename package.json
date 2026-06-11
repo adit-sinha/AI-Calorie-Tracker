@@ -8,5 +8,8 @@
     "dev:client": "npm run dev --prefix client",
     "start:server": "npm start --prefix server",
     "build:client": "npm run build --prefix client"
+  },
+  "dependencies": {
+    "gh-pages": "^6.3.0"
   }
 }
